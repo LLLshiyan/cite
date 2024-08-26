@@ -5,10 +5,8 @@
 ---
 
 ## 1. 引用格式 📚
-
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+## 请科研君帮帮引用：
 ```
-"请科研君帮帮引用："
 bibtex
 @article{liu2021adaspring,
   title={AdaSpring: Context-adaptive and runtime-evolutionary deep model compression for mobile applications},
