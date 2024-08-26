@@ -6,8 +6,7 @@
 
 ## 1. 引用格式 📚
 ### 请科研君帮帮引用：
-```
-bibtex
+```bibtex
 @article{liu2021adaspring,
   title={AdaSpring: Context-adaptive and runtime-evolutionary deep model compression for mobile applications},
   author={Liu, Sicong and Guo, Bin and Ma, Ke and Yu, Zhiwen and Du, Junzhao},
